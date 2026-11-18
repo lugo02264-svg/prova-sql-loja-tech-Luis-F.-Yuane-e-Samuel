@@ -111,3 +111,4 @@ END$$
 DELIMITER ;
 CALL executar_testes_loja();
 DROP PROCEDURE executar_testes_loja;
+

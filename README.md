@@ -26,3 +26,4 @@ Execute a base original `00_base_LojaTech2026.sql` uma vez e depois os arquivos 
 - Implementar e testar a parte 05 antes de executar 06.
 - Testar no MySQL 8/Workbench e capturar evidências reais; nenhuma imagem foi gerada.
 - A autoria, a divisão de tarefas e os commits devem refletir a contribuição real de cada integrante.
+

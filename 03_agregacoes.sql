@@ -52,3 +52,4 @@ INNER JOIN Vendas AS v ON v.Produto = p.Codigo
 GROUP BY p.Codigo, p.Descricao
 ORDER BY QuantidadeVendida DESC, p.Codigo
 LIMIT 3;
+
