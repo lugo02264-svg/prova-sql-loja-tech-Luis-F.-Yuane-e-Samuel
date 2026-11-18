@@ -85,3 +85,4 @@ INSERT INTO Vendas (Cliente, Produto, DataVenda, Quantidade, ValorVenda) VALUES
 (10, 10, '2026-08-30', 2, 152.00),
 (1,  10, '2026-09-14', 1, 145.00),
 (3,  2,  '2026-10-05', 1, 181.50);
+

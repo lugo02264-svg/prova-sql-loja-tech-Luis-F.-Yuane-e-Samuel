@@ -27,3 +27,4 @@ SELECT Codigo, Nome, QuantidadeCompras, TotalGasto, UltimaCompra, Perfil
 FROM vwResumoClientes
 WHERE Perfil = 'Ouro'
 ORDER BY TotalGasto DESC, Codigo;
+
