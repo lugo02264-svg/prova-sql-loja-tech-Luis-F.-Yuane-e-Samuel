@@ -49,3 +49,4 @@ UPDATE Produtos SET Estoque = 0 WHERE Codigo = 6;
 ALTER TABLE Clientes ADD COLUMN CEP VARCHAR(9);
 UPDATE Clientes SET CEP = '12200-000' WHERE Codigo = 1;
 UPDATE Clientes SET CEP = '40000-000' WHERE Codigo = 2;
+

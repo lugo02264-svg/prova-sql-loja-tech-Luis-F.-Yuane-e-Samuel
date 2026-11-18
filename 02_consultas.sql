@@ -50,3 +50,4 @@ FROM Clientes AS c
 LEFT JOIN Vendas AS v ON v.Cliente = c.Codigo
 GROUP BY c.Codigo, c.Nome
 ORDER BY c.Codigo;
+
